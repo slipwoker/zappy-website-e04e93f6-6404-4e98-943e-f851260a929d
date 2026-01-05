@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://first-jerusalem-e04e93f6.zappy5.app/sitemap.xml

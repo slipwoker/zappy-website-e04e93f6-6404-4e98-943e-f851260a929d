@@ -1,0 +1,57 @@
+# First Jerusalem — Generative Engine Optimization Map
+
+> A מסעדנות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://first-jerusalem-e04e93f6.zappy5.app
+גלה מסעדה מרוקאית כשרה למהדרין בירושלים עם גריל ישראלי מקצועי ובשרים מובחרים. חוויה קולינרית יוקרתית לזוגות, משפחות ואירועים פרטיים.
+
+### התפריט שלנו
+https://first-jerusalem-e04e93f6.zappy5.app/menu
+גלה את התפריט המלא של מסעדה מרוקאית כשרה למהדרין עם גריל ישראלי מקצועי, בשרים מובחרים, ומנות מסורתיות אותנטיות.
+
+### אודות
+https://first-jerusalem-e04e93f6.zappy5.app/about
+גלה את הסיפור מאחורי מסעדה מרוקאית כשרה למהדרין בירושלים. מסורת קולינרית, גריל ישראלי מקצועי, ומחויבות למצוינות.
+
+### הזמנת שולחן
+https://first-jerusalem-e04e93f6.zappy5.app/contact
+הזמינו שולחן במסעדה מרוקאית כשרה למהדרין בירושלים. גריל ישראלי מקצועי, בשרים מובחרים, ומסעדה לאירועים קטנים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://first-jerusalem-e04e93f6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://first-jerusalem-e04e93f6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://first-jerusalem-e04e93f6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About First Jerusalem
+First Jerusalem is a business in the מסעדנות industry.
+
+## Target Audience
+סועדים שמעריכים איכות, זוגות ומשפחות שמחפשים רמה אחרת, אירועים קטנים ופרטיים
+
+## Industry
+מסעדנות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://first-jerusalem-e04e93f6.zappy5.app/sitemap.xml
+- **Robots.txt**: https://first-jerusalem-e04e93f6.zappy5.app/robots.txt
